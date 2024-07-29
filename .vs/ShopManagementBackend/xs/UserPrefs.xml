@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0FA4B224-D573-43D7-BD18-8E22CF8BF631}|https">
+  <MonoDevelop.Ide.ItemProperties.ShopManagementBackend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Address.cs">
+    <Files>
+      <File FileName="Models/Address.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopManagementBackend" expanded="True">
+            <Node name="ShopManagementBackend" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Address.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
