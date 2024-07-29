@@ -10,7 +10,7 @@ namespace ShopManagementBackend.Controllers
     [ApiController]
     public class AdminController : ControllerBase
     {
-        private readonly IRepository<TBL_ADMINS> _adminRepository;
+        private readonly IUserRepository<TBL_ADMINS> _adminRepository;
 
         public AdminController(IUserRepository<TBL_ADMINS> adminRepository)
         {
